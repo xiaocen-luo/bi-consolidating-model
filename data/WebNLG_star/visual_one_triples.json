@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Franz , a designer of Tesla , a company in Palo Alto .",
+        "triple_list": [
+            [
+                "Franz",
+                "locationCity",
+                "Tesla"
+            ],
+            [
+                "Franz",
+                "locationCity",
+                "Palo Alto"
+            ],
+            [
+                "Tesla",
+                "locationCity",
+                "Palo Alto"
+            ]
+        ]
+    },
+    {
+        "text": "A Fortress of Grey Ice is from the United States , led by President Barack Obama .",
+        "triple_list": [
+            [
+                "States",
+                "leaderName",
+                "Obama"
+            ],
+            [
+                "Ice",
+                "country",
+                "States"
+            ]
+        ]
+    }
+]

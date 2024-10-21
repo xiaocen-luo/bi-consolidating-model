@@ -1,0 +1,214 @@
+[
+    {
+        "text": "Agra airport has the location identifier VIAG and is located in Awadh , Uttar Pradesh , Bundelkhand .",
+        "triple_list": [
+            [
+                "Pradesh",
+                "isPartOf",
+                "Awadh"
+            ],
+            [
+                "Pradesh",
+                "isPartOf",
+                "Bundelkhand"
+            ]
+        ]
+    },
+    {
+        "text": "A Fortress of Grey Ice is from the United States , led by President Barack Obama .",
+        "triple_list": [
+            [
+                "States",
+                "leaderName",
+                "Obama"
+            ],
+            [
+                "Ice",
+                "country",
+                "States"
+            ]
+        ]
+    },
+    {
+        "text": "Elliot See , born July 23 1927 in Dallas , has died .",
+        "triple_list": [
+            [
+                "See",
+                "birthPlace",
+                "Dallas"
+            ]
+        ]
+    },
+
+
+    {
+        "text": "Bakso comes from Indonesia , and celery is a main ingredient . UNK Kalla is a leader in Indonesia .",
+        "triple_list": [
+            [
+                "Indonesia",
+                "leaderName",
+                "Kalla"
+            ],
+            [
+                "Bakso",
+                "region",
+                "Indonesia"
+            ],
+            [
+                "Bakso",
+                "country",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "Ampara Hospital is in Eastern Province , Sri Lanka . Ranil Wickremesinghe is a leader there .",
+        "triple_list": [
+            [
+                "Hospital",
+                "country",
+                "Lanka"
+            ],
+            [
+                "Lanka",
+                "leaderName",
+                "Wickremesinghe"
+            ],
+            [
+                "Hospital",
+                "state",
+                "Lanka"
+            ]
+        ]
+    },
+    {
+        "text": "The ethnic group of native Americans are from the United States where The president is the leader and baked Alaska is a dish .",
+        "triple_list": [
+            [
+                "States",
+                "ethnicGroup",
+                "States"
+            ],
+            [
+                "States",
+                "leaderTitle",
+                "States"
+            ],
+            [
+                "Alaska",
+                "country",
+                "States"
+            ]
+        ]
+    },
+    {
+        "text": "Alan Shepard was a crew member of NASA operated Apollo 14 who died in California which is represented by Dianne Feinstein .",
+        "triple_list": [
+            [
+                "Shepard",
+                "was a crew member of",
+                "14"
+            ],
+            [
+                "Shepard",
+                "deathPlace",
+                "California"
+            ],
+            [
+                "California",
+                "senators",
+                "Feinstein"
+            ],
+            [
+                "14",
+                "operator",
+                "NASA"
+            ]
+        ]
+    },
+    {
+        "text": "Fighter pilot William Anders , who is now retired , was part of Apollo 8 which included Frank Borman among the crew .",
+        "triple_list": [
+            [
+                "Anders",
+                "occupation",
+                "pilot"
+            ],
+            [
+                "Anders",
+                "was a crew member of",
+                "8"
+            ],
+            [
+                "8",
+                "crewMembers",
+                "Borman"
+            ]
+        ]
+    },
+    {
+        "text": "Pickard Chilton designed 300 North LaSalle , Chicago , which has 60 floors and was completed in 2009 .",
+        "triple_list": [
+            [
+                "LaSalle",
+                "location",
+                "Chicago"
+            ],
+            [
+                "LaSalle",
+                "architect",
+                "Chilton"
+            ],
+            [
+                "LaSalle",
+                "floorCount",
+                "60"
+            ],
+            [
+                "LaSalle",
+                "completionDate",
+                "2009"
+            ]
+        ]
+    },
+    {
+        "text": "300 North LaSalle is located in Chicago , Cook County , Illinois , United States where the leader is Susana Mendoza .",
+        "triple_list": [
+            [
+                "LaSalle",
+                "location",
+                "Chicago"
+            ],
+            [
+                "Chicago",
+                "isPartOf",
+                "Illinois"
+            ],
+            [
+                "Chicago",
+                "country",
+                "States"
+            ],
+            [
+                "Chicago",
+                "leaderName",
+                "Mendoza"
+            ]
+        ]
+    },
+    {
+        "text": "Al-Taqaddum Air Base serves the city of Falluja located in Iraq where Fuad Masum is leader and they speak Arabic .",
+        "triple_list": [
+            [
+                "Iraq",
+                "leaderName",
+                "Masum"
+            ],
+            [
+                "Iraq",
+                "language",
+                "Arabic"
+            ]
+        ]
+    }
+]

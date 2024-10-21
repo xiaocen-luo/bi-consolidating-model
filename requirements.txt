@@ -1,0 +1,5 @@
+keras_bert==0.88.0
+matplotlib==3.3.2
+numpy==1.19.2
+scikit_learn==1.0.1
+transformers==4.5.1
